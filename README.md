@@ -1,13 +1,16 @@
 # Klean bot manofesto
+```
+Klean bot was pushed to MMO server prematurly due to RoomPosition changes breaking my original code and not wanting to fix it. All of the listed items have not yet been coded.
+```
 
 ### What is Klean bot?
 ---
 
-Klean bot is a fork of KasamiBot. Klean bot is meant to be an NPC of Shard 1.
+Klean bot is a fork of [KasamiBot](https://github.com/kasami/kasamibot). Klean bot is meant to be an NPC of Shard 1.
 
-The Kleaners are a people that want to save the Shard and help restore it to its natural beauty. They roam the edge of the Shard improving the screeps and the land they pass. They providing aid to needy screeps and perform restoration projects on near by rooms. They want to spread their aid and prevent over use of the land. Because of this they are nomadic and constantly on the move. Unlike most inhabitance of the Shard they dont want to stake out claim and hunker down, they want to get out and see the Shard. 
+The Kleaners are a people that want to save the Shard and help restore it to its natural beauty. They roam the edge of the Shard improving the screeps and the land they pass. They providing aid to needy screeps and perform restoration projects on near by rooms. They want to spread their aid and prevent over use of the land. Because of this they are nomadic and constantly on the move. Unlike most inhabitance of the Shard they dont want to stake out a claim and hunker down, they want to get out and see the Shard. 
 
-They have adopted many standards to live by witch they believe will bring peace and vitality to the Shard.
+They have adopted many standards to live by which they believe will bring peace and vitality to the Shard.
 
 * 100% Wall free, walls are forever and litter our shard
 * Free and open borders, dont block travel of screeps and leave ramparts public
@@ -69,7 +72,7 @@ When population control measures take place at 30 rooms there will be a radical 
 
 Screeps has been a great learning tool for me. I purchased this gaming having never written any javascript (PowerShell is my day job). I was able to jump through the tutorials read the API docs and I was off to the races. Already being familiar with reading API docs and basic programing knowledge I am sure my learning curve was not as sharp as some. As my bot and my knowledge gew I hobbled together code racing to keep up with my RCL. 
 
-One tool that helped me and that I still love is the private server. I would load by bot in there and respawn over and over running super fast ticks and game mods I was able to get months worth of game time in days. This continuous build system help me work out issues and advance faster then I think I might have otherwise. After a while I had quite a few rooms and most economic items coded 'good enough'. By this time my javascript or rather typescript, skills had grown but my code was having some growing pains. I knew the best thing to do was a total rewrite but I was not sure my motivation could take that kind of a blow. so I stalled with military code, but I have always had reservations about being aggressive to other players. 
+One tool that helped me and that I still love is the private server. I would load by bot in there and respawn over and over running super fast ticks and game mods I was able to get months worth of game time in days. This continuous build system help me work out issues and advance faster then I think I might have otherwise. After a while I had quite a few rooms and most economic items coded 'good enough'. By this time my javascript or rather typescript, skills had grown but my code was having some growing pains. I knew the best thing to do was a total rewrite but I was not sure my motivation could take that kind of a blow. so I stalled with military code, but I have always had reservations about being aggressive towards other players. 
 
 So, defence code. But I needed some attackers....
 
