@@ -1,7 +1,7 @@
 # Klean bot manofesto
-```
-Klean bot was pushed to MMO server prematurly due to RoomPosition changes breaking my original code and not wanting to fix it. All of the listed items have not yet been coded.
-```
+
+>Klean bot was pushed to MMO server prematurly due to RoomPosition changes breaking my original code and not wanting to fix it. All of the listed items have not yet been coded.
+
 
 ### What is Klean bot?
 ---
