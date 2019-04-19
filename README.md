@@ -35,6 +35,7 @@ They have adopted many standards to live by which they believe will bring peace 
 * Klean bot will only expand in a clockwise direction
 * Once 30* rooms are established the farthest back room will be abandoned and the expansion clockwise will continue.
 * every 2000 ticks 10% of storage values will be sent to nearby neighbors
+* Will not avoid LOAN clone detection
 * Base will be inverted for easy identification
 
 ![Base](https://i.imgur.com/perEGMR.png)
