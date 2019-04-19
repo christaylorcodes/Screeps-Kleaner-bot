@@ -21,7 +21,7 @@ They have adopted many standards to live by which they believe will bring peace 
 * Process power to offset energy footprint and invest in the future
 * All minerals are mined in a sustainable fashion
 * Screepitarian shipments of energy will be sent to nearby rooms in crisis
-* Use links and terminals whenever possible to reduce unneeded transport intents
+* Use links and terminals whenever possible to reduce transport intent polution
 * All natural, organic, gluten-free boosts
 * Give back, 10% of profits will be returned to the local community
 * Room controllers will be praised to the highest level ensuring as much energy as possible is returned to the shard. 
