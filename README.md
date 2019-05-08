@@ -58,17 +58,16 @@ We believe that portals are caused by screeps and we need to act now to stop Sha
 
 When population control measures take place at 30 rooms there will be a radical group that splits off the Kleaners.
 
-* They will form a new expansion and become the kleansers.
-* They will be aggressive to all neighbors as the only way to save the shard is to rid it of those that pollute it.
+The Kleansers will be exiled to the other shards. They will continue to restore the shard to its natural beauty but will attempt to kill anyone in their way.
+
+* They will be exiled to shard 0 and 2.
+* They will be aggressive to all neighbors, as the only way to save the shard is to rid it of those that pollute it.
 * They will have a 1/5 chance of requesting minerals from kleaner base.
 * There is a 1/2 chance that it will be the mineral they requested.
 * The number of minerals will be random.
 * They will sell unwanted minerals on the market for a discount.
 * Credits gained will be used to buy needed minerals from the market.
-* If you are on the enemies list of the kleaners the kleansers will be even more aggressive towards you
-* kleansers will fly a pirate flag and build upright
-* players that attack this room will be added to the kleaners friends list
-* This room will be abandoned and spawn at the front lines if it is the farthest back expansion or if there are no hostiles in range
+* Kleansers will fly a black flag and build upright
 
 ---
 
