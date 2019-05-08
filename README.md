@@ -50,7 +50,7 @@ They have adopted many standards to live by which they believe will bring peace 
 
 We believe that portals are caused by screeps and we need to act now to stop Shard holing. We will seek out these phenomena and rally at them to bring attention to them now while there is still hope that we can change our ways.
 
-![ProtestGif](https://i.imgur.com/r2txFfa.jpg)
+![ProtestGif](./protest.gif)
 
 ---
 
