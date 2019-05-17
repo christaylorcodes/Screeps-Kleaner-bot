@@ -41,7 +41,7 @@ They have adopted many standards to live by which they believe will bring peace 
 * Will not avoid LOAN clone detection
 * Base will be inverted for easy identification
 
-![Base](https://i.imgur.com/perEGMR.png)
+![Base](https://i.imgur.com/HvdcSms.png)
 
 ---
 
