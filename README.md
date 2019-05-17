@@ -54,6 +54,15 @@ We believe that portals are caused by screeps and we need to act now to stop Sha
 
 ---
 
+### PowerBanks
+
+
+We go off the most ancient of rules. Finders Keepers. If another player can reach the bank before the Kleaners can, they will forfeit the bank to them. If they can get to the bank first and claim it they will fight off others that try and interfere.
+
+![BankClaim](./BankClaim.gif)
+
+---
+
 ### Kleansers
 
 When population control measures take place at 30 rooms there will be a radical group that splits off the Kleaners.
