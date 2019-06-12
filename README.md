@@ -1,8 +1,5 @@
 # Klean bot manifesto
 
->Klean bot was pushed to MMO server prematurely due to RoomPosition changes breaking my original code and not wanting to fix it. All of the listed items have not yet been coded.
-
-
 ### What is Klean bot?
 ---
 
@@ -76,6 +73,7 @@ The kleaners perform restoration on the unoccupied rooms it finds in range. Thes
 ---
 
 ### Kleansers
+> Have not reached population cap yet, still sending shardnauts through portals with nothing to return.
 
 When population control measures take place at 30 rooms there will be a radical group that splits off the Kleaners.
 
