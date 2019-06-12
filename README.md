@@ -63,6 +63,17 @@ We go off the most ancient of rules. Finders Keepers. If another player can reac
 
 ---
 
+### Restoration
+
+The kleaners perform restoration on the unocupied rooms it finds in range. These restoration projects will remove all structures from the room, restoring them to their natural beauty. The removal of these structures will allso provide the following binifits:
+* No exits are blocked for easy path finding
+* No blocked controllers for easier expansion.
+* Less game objects help all of us
+
+![Restoration](./Restoration.gif)
+
+---
+
 ### Kleansers
 
 When population control measures take place at 30 rooms there will be a radical group that splits off the Kleaners.
