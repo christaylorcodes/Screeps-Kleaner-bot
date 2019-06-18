@@ -33,9 +33,9 @@ They have adopted many standards to live by which they believe will bring peace 
 * Klean bot will only occupy the edge sector
 * Klean bot will only expand in a clockwise direction
 * Once 30* rooms are established the farthest back room will be abandoned and the expansion clockwise will continue.
-* Main goal of making an trip around the edge of the shard
+* Main goal of making a trip around the edge of the shard
 * every 2000 ticks 10% of storage values will be sent to nearby neighbors
-* Will not avoid LOAN clone detection
+* Will not avoid [LOAN clone detection](https://www.leagueofautomatednations.com/map/shard1/bots)
 * Base will be inverted for easy identification
 
 <img width=50% alt="base" src="https://i.imgur.com/HvdcSms.png">
