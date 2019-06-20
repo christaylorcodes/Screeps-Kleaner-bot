@@ -87,6 +87,9 @@ The Kleansers will be exiled to the other shards. They will continue to restore 
 * They will sell unwanted minerals on the market for a discount.
 * Credits gained will be used to buy needed minerals from the market.
 * Kleansers will fly a black flag and build upright
+* Kleansers stand with their comrades in shard 3 and operate on 20 CPU
+
+![CPU](https://i.imgur.com/HcePoNE.png)
 
 ---
 
