@@ -7,7 +7,7 @@ Klean bot is a fork of [KasamiBot](https://github.com/kasami/kasamibot).
 
 Klean bot is meant to be an NPC of Shard 1.
 
-The Kleaners are a people that want to save the Shard and help restore it to its natural beauty. They roam the edge of the Shard improving the screeps and the land they pass. They providing aid to needy screeps and perform restoration projects on nearby rooms. They want to spread their aid and prevent overuse of the land. Because of this, they are nomadic and constantly on the move. Unlike most inhabitance of the Shard they don't want to stake out a claim and hunker down, they want to get out and see the Shard.
+The Kleaners are a people that want to save the Shard and help restore it to its natural beauty. They roam the edge of the Shard improving the screeps and the land they pass. They provide aid to needy screeps and perform restoration projects on nearby rooms. They want to spread their aid and prevent overuse of the land. Because of this, they are nomadic and constantly on the move. Unlike most inhabitance of the Shard they don't want to stake out a claim and hunker down, they want to get out and see the Shard.
 
 They have adopted many standards to live by which they believe will bring peace and vitality to the Shard.
 
