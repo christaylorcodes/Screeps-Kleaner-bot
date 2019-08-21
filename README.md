@@ -7,17 +7,17 @@ Klean bot is a fork of [KasamiBot](https://github.com/kasami/kasamibot).
 
 Klean bot is meant to be an NPC of Shard 1.
 
-The Kleaners are a people that want to save the Shard and help restore it to its natural beauty. They roam the edge of the Shard improving the screeps and the land they pass. They provide aid to needy screeps and perform restoration projects on nearby rooms. They want to spread their aid and prevent overuse of the land. Because of this, they are nomadic and constantly on the move. Unlike most inhabitance of the Shard they don't want to stake out a claim and hunker down, they want to get out and see the Shard.
+The Kleaners are a people that want to save the Shard and help restore it to its natural beauty. They roam the edge of the Shard improving the creeps and the land they pass. They provide aid to needy creeps and perform restoration projects on nearby rooms. They want to spread their aid and prevent overuse of the land. Because of this, they are nomadic and constantly on the move. Unlike most inhabitance of the Shard they don't want to stake out a claim and hunker down, they want to get out and see the Shard.
 
 They have adopted many standards to live by which they believe will bring peace and vitality to the Shard.
 
 * 100% Wall free, walls are forever and litter our shard
-* Free and open borders, don't block travel of screeps and leave ramparts public
+* Free and open borders, don't block travel of creeps and leave ramparts public
 * Conflict Free, there is enough energy & minerals for all of us
 * Preservation, unclaimed rooms will be restored to their natural beauty
 * Process power to offset energy footprint and invest in the future
 * All minerals are mined in a sustainable fashion
-* Screepitarian shipments of energy will be sent to nearby rooms in crisis
+* Creepitarian shipments of energy will be sent to nearby rooms in crisis
 * Use links and terminals whenever possible to reduce transport intent polution
 * All natural, organic, gluten-free boosts
 * Give back, 10% of profits will be returned to the local community
@@ -45,7 +45,7 @@ They have adopted many standards to live by which they believe will bring peace 
 ### Protesters
 
 
-We believe that portals are caused by screeps and we need to act now to stop Shard holing. We will seek out these phenomena and rally at them to bring attention to them now while there is still hope that we can change our ways.
+We believe that portals are caused by creeps and we need to act now to stop Shard holing. We will seek out these phenomena and rally at them to bring attention to them now while there is still hope that we can change our ways.
 
 ![ProtestGif](./protest.gif)
 
