@@ -53,7 +53,7 @@ We believe that portals are caused by creeps and we need to act now to stop Shar
 ### Highway Resources
 
 
-We go off the most ancient of rules. Finders Keepers. If another player can reach the bank or deposit before the Kleaners can, they will forfeit the resource to them. If they can get to the bank first and claim it they will fight off others that try and interfere.
+We go off the most ancient of rules. Finders Keepers. If another player can reach the bank or deposit before the Kleaners can, they will forfeit the resource to them. If they can get to the bank first and claim it they will fight off others that try and interfere. Claimers will be spawned with a delay of ~100 ticks after discovery.
 
 ![BankClaim](./BankClaim.gif)
 
