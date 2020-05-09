@@ -34,7 +34,6 @@ They have adopted many standards to live by which they believe will bring peace 
 * Klean bot will only expand in a clockwise direction
 * Once 30* rooms are established the farthest back room will be abandoned and the expansion clockwise will continue.
 * Main goal of making a trip around the edge of the shard
-* every 2000 ticks 10% of storage values will be sent to nearby neighbors
 * Will not avoid [LOAN clone detection](https://www.leagueofautomatednations.com/map/shard1/bots)
 * Base will be inverted for easy identification
 
@@ -51,10 +50,10 @@ We believe that portals are caused by creeps and we need to act now to stop Shar
 
 ---
 
-### PowerBanks
+### Highway Resources
 
 
-We go off the most ancient of rules. Finders Keepers. If another player can reach the bank before the Kleaners can, they will forfeit the bank to them. If they can get to the bank first and claim it they will fight off others that try and interfere.
+We go off the most ancient of rules. Finders Keepers. If another player can reach the bank or deposit before the Kleaners can, they will forfeit the resource to them. If they can get to the bank first and claim it they will fight off others that try and interfere.
 
 ![BankClaim](./BankClaim.gif)
 
