@@ -72,7 +72,7 @@ The kleaners perform restoration on the unoccupied rooms it finds in range. Thes
 ---
 
 ### Kleansers
-> Population cap is soon approaching. In preparation, shardnauts have been scouting for outposts beyond the portals. Be warned.
+> Prospects of a new economy have cooled tensions and only the most radical are looking to the other shards. They are some that still venture through the portals scouting for a new home when the unrest returns.
 
 When population control measures take place at 30 rooms there will be a radical group that splits off the Kleaners.
 
