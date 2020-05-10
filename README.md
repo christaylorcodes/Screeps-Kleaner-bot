@@ -80,7 +80,7 @@ The kleaners perform restoration on the unoccupied rooms it finds in range. Thes
 
 When population control measures take place at 30 rooms there will be a radical group that splits off the Kleaners.
 
-The Kleansers will be exiled to the other shards. They will continue to restore the shard to its natural beauty but will attempt to kill anyone in their way.
+The Kleansers will be exiled to the other shards. They will follow the same rules but will be aggressive to other players in their sector.
 
 * They will be exiled to shard 0 and 2.
 * They will be aggressive to all neighbors, as the only way to save the shard is to rid it of those that pollute it.
