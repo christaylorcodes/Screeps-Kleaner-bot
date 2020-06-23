@@ -7,7 +7,7 @@ Klean bot is a fork of [KasamiBot](https://github.com/kasami/kasamibot).
 
 Klean bot is meant to be an NPC of Shard 1.
 
-The Kleaners are a people that want to save the Shard and help restore it to its natural beauty. They roam the edge of the Shard improving the creeps and the land they pass. They provide aid to needy creeps and perform restoration projects on nearby rooms. They want to spread their aid and prevent overuse of the land. Because of this, they are nomadic and constantly on the move. Unlike most inhabitance of the Shard they don't want to stake out a claim and hunker down, they want to get out and see the Shard.
+The Kleaners are a people that want to save the Shard and help restore it to its natural beauty. They roam the edge of the Shard improving the creeps and the land they pass. They provide aid to needy creeps and perform restoration projects on nearby rooms. They want to spread their aid and prevent overuse of the land. Because of this, they are nomadic and constantly on the move. Unlike most inhabitance of the Shard they don't want to stake out a claim and hunker down, they want to get out and see the Shard. In their journey around the shard they cam across terminals buried deep in the walls. These where not normal terminals though. They where full of information from another realm. The terminals taught the Kleaners how to harness the power of power. The terminals also taught us to make mystical items for witch we still don't know the purpose. All we know is these 'others' will pay handsomely for them. Who knows, maybe they will reward you after the last ttl as well. We quest our way around the shard to unlock the secrets of each sector. Maybe then we will learn.
 
 They have adopted many standards to live by which they believe will bring peace and vitality to the Shard.
 
@@ -20,7 +20,7 @@ They have adopted many standards to live by which they believe will bring peace 
 * Creepitarian shipments of energy will be sent to nearby rooms in crisis
 * Use links and terminals whenever possible to reduce transport intent pollution
 * All natural, organic, gluten-free boosts
-* Give back, subscription tokens will be given to people who #help the most 🧡
+* Give back, CPU unlock/pixels will be given to people who #help the most 🧡
 * Room controllers will be praised to the highest level ensuring as much energy as possible is returned to the shard.
 * Nuclear disarmament, nukes aren't good for anyone!
 * Population control, fewer creeps will produce more ticks, for the whole shard.
@@ -37,6 +37,9 @@ They have adopted many standards to live by which they believe will bring peace 
 * Main goal of making a trip around the edge of the shard
 * Will not avoid [LOAN clone detection](https://www.leagueofautomatednations.com/map/shard1/bots)
 * Base will be inverted for easy identification
+* No manual intervention will be done
+* All RCL8 rooms will have power enabled
+* 'Owned' rooms will be defended, there will be no retaliation
 
 <img width=50% alt="base" src="https://i.imgur.com/HvdcSms.png">
 
