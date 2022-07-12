@@ -5,7 +5,7 @@
 
 Klean bot is a fork of [KasamiBot](https://github.com/kasami/kasamibot).
 
-Klean bot is meant to be an NPC of Shard 1.
+Klean bot ([Explicit](https://screeps.com/a/#!/profile/explicit)) is meant to be an NPC of Shard 1.
 
 The Kleaners are a people that want to save the Shard and help restore it to its natural beauty. They roam the edge of the Shard improving the creeps and the land they pass. They provide aid to needy creeps and perform restoration projects on nearby rooms. They want to spread their aid and prevent overuse of the land. Because of this, they are nomadic and constantly on the move. Unlike most inhabitance of the Shard they don't want to stake out a claim and hunker down, they want to get out and see the Shard. In their journey around the shard they cam across terminals buried deep in the walls. These where not normal terminals though. They where full of information from another realm. The terminals taught the Kleaners how to harness the power of power. The terminals also taught us to make mystical items for witch we still don't know the purpose. All we know is these 'others' will pay handsomely for them. Who knows, maybe they will reward you after the last ttl as well. We quest our way around the shard to unlock the secrets of each sector. Maybe then we will learn.
 
