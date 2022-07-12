@@ -79,18 +79,17 @@ The kleaners perform restoration on the unoccupied rooms it finds in range. Thes
 ---
 
 ### Kleansers
-> Prospects of a new economy have cooled tensions and only the most radical are looking to the other shards. There are some that still venture through the portals scouting for a new home when the unrest returns.
+Population control measures have caused a radical group to splits off of the Kleaners.
 
-When population control measures take place at 30 rooms there will be a radical group that splits off the Kleaners.
+The Kleansers have been exiled to the other shards. They follow the same rules but will be aggressive to other players in their sector.
 
-The Kleansers will be exiled to the other shards. They will follow the same rules but will be aggressive to other players in their sector.
-
-* They will be exiled to shard 0 and 2.
-* They will be aggressive to all neighbors, as the only way to save the shard is to rid it of those that pollute it.
-* They will have a 1/5 chance of requesting minerals from Kleaner base.
+* Exiled to shard 0 and 2.
+* Aggressive to all neighbors, as the only way to save the shard is to rid it of those that pollute it.
+* Only agressive to players in its sector.
+* 1/5 chance of requesting minerals from Kleaner base.
 * There is a 1/2 chance that it will be the mineral they requested.
 * The number of minerals will be random.
-* They will sell unwanted minerals on the market for a discount.
+* Sell unwanted minerals on the market for a discount.
 * Credits gained will be used to buy needed minerals from the market.
 * Kleansers will fly a black flag and build upright
 * Kleansers stand with their comrades in shard 3 and operate on 20 CPU
