@@ -79,9 +79,11 @@ The Kleaners perform restoration on the unoccupied rooms it finds in range. Thes
 ---
 
 ### Kleansers
-Population control measures have caused a radical group to splits off of the Kleaners.
+Population control measures have caused a radical group to split off of the Kleaners.
 
 The Kleansers have been exiled to the other shards. They follow the same rules but will be aggressive to other players in their sector.
+
+Kill them before they get a foothold in your sector!
 
 * Exiled to shard 0 and 2.
 * Aggressive to all neighbors, as the only way to save the shard is to rid it of those that pollute it.
