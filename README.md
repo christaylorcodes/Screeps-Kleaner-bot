@@ -111,6 +111,9 @@ I started loading my private server up with public bots as opponents. But none o
 
 By this time my old bot has sat idle now on the public server for 6 months. I reached GCL 26 and felt as though I had done a good, 'once through' of the game. During this time I thought about the public bot on public server issue and the scourge that is NCPs. I chose to embrace the idea of a bot acting as an NPC. I feel most negative feelings about people using public bots is that they are not playing the game and essentially using 'cheat codes'. They are then using this advantage to run amuck in their sector. I have been actively coding on this base for quite some time and will continue to do so. This bot will be a friendly NPC and will give no unsolicited aggression to other players. It will, in fact, provide help to the players around it and offer them something to interact with. I was also inspired by [Church of the END](https://docs.google.com/document/d/1pgktG9UyGEVYhsrhVqZwJVwVWnjwVuyghx86gpaCz3Q/edit#) and making some kind of [Langoliers](https://en.wikipedia.org/wiki/Four_past_Midnight#The_Langoliers) garbage collector. I loved the path that [TooAngel was going in with quests](https://github.com/TooAngel/screeps/blob/master/doc/Quests.md) and I am excited for [strongholds](https://screeps.com/forum/topic/2362/draft-npc-strongholds). I hope to try and add to this PvE type of play.
 
+**The real goal of this bot is to make YOU write code.** If you find this kind of lore/alternate goal inspiring and write some of your own in to your code. If you need to race it to a highway resource. If the Kleansers are harassing you and you need to write defense code. If this bot get you to write some code of your own it has reached its goal. I hope other peoples code can help you write code.
+
+
 And because who doesn't love script kitties!
 
 ![Kitty](https://i.chzbgr.com/full/8413491200/hBB191F41)
