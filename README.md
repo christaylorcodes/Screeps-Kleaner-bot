@@ -87,7 +87,7 @@ Kill them before they get a foothold in your sector!
 
 * Exiled to shard 0 and 2.
 * Aggressive to all neighbors, as the only way to save the shard is to rid it of those that pollute it.
-* Only aggressive to players in its sector.
+* Only aggressive to rooms in its sector.
 * Will actively work to Kleans a sector of all other players and structures. 
     * Once done the Kleansers will unspawn from that shard and try and expand to a new sector.
 * 1/5 chance of requesting minerals from Kleaners base.
